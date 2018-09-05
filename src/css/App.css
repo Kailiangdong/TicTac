@@ -1,0 +1,40 @@
+.tableRow:after {
+  clear: both;
+  content: "";
+  display: table;
+}
+
+.status {
+  font-size: 24px;
+  font-weight: bold;
+  margin-top:30px;
+  padding-left:82px;
+}
+
+.square {
+  background: #fff;
+  border: 1px solid #999;
+  float: left;
+  font-size: 24px;
+  font-weight: bold;
+  line-height: 34px;
+  height: 100px;
+  margin-right: -1px;
+  margin-top: -1px;
+  padding: 0;
+  text-align: center;
+  width: 100px;
+}
+.table {
+  position:absolute;
+  left : 37%;
+  top : 20%;
+}
+.start {
+  position:absolute;
+  background: red;
+  font-size: 30px;
+  left : 43%;
+  top : 70%;
+
+}

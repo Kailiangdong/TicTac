@@ -1,0 +1,5 @@
+Test Document
+1, clicking the start can begin the game .
+2, The step status is right
+3, clicking the restart can restart the game.
+4, The winner is right .
